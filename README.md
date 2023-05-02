@@ -1,4 +1,4 @@
-# Pizza-Resto-UI
+## Pizza-Resto-UI
 
 Intern Quest Task #7 in Teravision
 
@@ -8,7 +8,7 @@ Lama Dev Channel
 
 https://youtu.be/vIxGDq1SPZQ
 
-
+##
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
